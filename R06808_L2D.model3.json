@@ -1,0 +1,45 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "R06808_L2D.moc3",
+		"Textures": [
+			"R06808_L2D.2048/texture_00.png",
+			"R06808_L2D.2048/texture_01.png",
+			"R06808_L2D.2048/texture_02.png"
+		],
+		"DisplayInfo": "R06808_L2D.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/IDLE.motion3.json"
+				}
+			],
+			"Touch": [
+				{
+					"File": "motions/TOUCH1.motion3.json"
+				},
+				{
+					"File": "motions/TOUCH2.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Touch"
+		}
+	]
+}

@@ -1,0 +1,3375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991fcd2d1ac3d76caabccf45c9b28fdf, type: 3}
+  m_Name: TOUCH1.fade
+  m_EditorClassIdentifier:
+  MotionName: Assets/Res/live2d/R06808_L2D/motions/TOUCH1.motion3.json
+  FadeInTime: 1
+  FadeOutTime: 1
+  ParameterIds:
+  - Opacity
+  - ParamAngleX
+  - ParamAngleY
+  - ParamAngleZ3
+  - ParamAngleZ2
+  - ParamAngleZ4
+  - ParamAngleZ
+  - ParamAngleZ5
+  - ParamAngleZ6
+  - ParamEyeLOpen
+  - ParamEyeLSmile
+  - ParamEyeROpen
+  - ParamEyeRSmile
+  - ParamEyeBallX
+  - ParamEyeBallY
+  - ParamBrowLY
+  - ParamBrowRY
+  - ParamBrowLAngle
+  - ParamBrowRAngle
+  - ParamBrowLForm
+  - ParamBrowRForm
+  - ParamMouthOpenY
+  - ParamMouthForm
+  - ParamMouthOpenY4
+  - Param
+  - ParamCheek
+  - ParamBreath
+  - ParamHairFront
+  - ParamHairSide
+  - ParamHairSide3
+  - ParamHairSide2
+  - ParamHairSide4
+  - ParamHairBack
+  - ParamBodyAngleX
+  - ParamBodyAngleY
+  - ParamBodyAngleZ
+  - ParamBodyAngleX2
+  - ParamBodyAngleY2
+  - ParamBodyAngleZ2
+  - ParamBodyAngleX3
+  - ParamBodyAngleY3
+  - ParamBodyAngleZ3
+  - ParamBodyAngleX4
+  - ParamBodyAngleY4
+  - ParamBodyAngleZ4
+  - ParamBodyAngleX5
+  - ParamBodyAngleY5
+  - Param2
+  - Param3
+  - ParamBodyAngleZ5
+  - ParamBodyAngleZ6
+  ParameterCurves:
+  - m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 10.596934
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: 12
+      inSlope: 0.43153957
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 11.959
+      inSlope: -0.5558654
+      outSlope: -0.55026567
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.567
+      value: 5
+      inSlope: -20.000023
+      outSlope: -20.015474
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: -12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.333
+      value: 12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.333
+      value: -2
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.933
+      value: 9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: -5
+      inSlope: 0
+      outSlope: -0.05437468
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.156
+      inSlope: 3.9487534
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -15.350786
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: -29.897
+      inSlope: 0.841968
+      outSlope: 1.4021149
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.567
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.333
+      value: -4
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.333
+      value: -16
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.933
+      value: -11
+      inSlope: 10.128765
+      outSlope: 10.127344
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: 11
+      inSlope: 0
+      outSlope: -0.011249194
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.368
+      inSlope: -5.4731293
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 4.3061585
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: 6
+      inSlope: 0.2838468
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 4.979
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.567
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.333
+      value: 1
+      inSlope: 6.8949647
+      outSlope: 6.892507
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.333
+      value: 7
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.5
+      value: -2
+      inSlope: -6.2076674
+      outSlope: -6.210007
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.2
+      value: -6
+      inSlope: 0
+      outSlope: 0.7772729
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.326
+      inSlope: 6.4745502
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: 2
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 0.993
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.567
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.333
+      value: -15
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.333
+      value: 2
+      inSlope: 10.07851
+      outSlope: 10.077077
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.5
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.2
+      value: 2
+      inSlope: -5.631183
+      outSlope: -5.631822
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0.016363649
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -5.115455
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.1
+      value: -10
+      inSlope: -0.29711437
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.833
+      value: 24
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.2
+      value: -11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.233
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.533
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.067
+      value: 11
+      inSlope: 0
+      outSlope: -0.19708133
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.341
+      inSlope: -8.148428
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 1.9800019
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.733
+      value: 4
+      inSlope: 4.1164327
+      outSlope: 5.2676725
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.2
+      value: 5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: -12
+      inSlope: -36.918964
+      outSlope: -36.857178
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: -26
+      inSlope: 6.0000067
+      outSlope: 7.2676473
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.133
+      value: 3
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: -17
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.021
+      inSlope: 1.248751
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -3.5078604
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.733
+      value: -9
+      inSlope: -11.762155
+      outSlope: -15.810016
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: -20
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: -3
+      inSlope: 31.820137
+      outSlope: 31.839035
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.133
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: 5
+      inSlope: 0
+      outSlope: -0.16125007
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.116
+      inSlope: -2.9887526
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -7.579293
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.733
+      value: -12
+      inSlope: 0.10071424
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: 3
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.133
+      value: -12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: 10
+      inSlope: 0
+      outSlope: -0.10312566
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.44
+      inSlope: -5.45813
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.967
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: -18
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.333
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.2
+      value: -11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: -17
+      inSlope: -3.8357186
+      outSlope: -3.8351226
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.167
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.072
+      inSlope: 4.2842045
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.967
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.2
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.167
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.967
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: -16
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.333
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.2
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: -18
+      inSlope: -5.717149
+      outSlope: -5.7109265
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.167
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.072
+      inSlope: 4.2842045
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.967
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.633
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.2
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.167
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -0.13677278
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 2
+      inSlope: 3.1889656
+      outSlope: 4.12008
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: 7
+      inSlope: -0.039399493
+      outSlope: -0.0335034
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: 5
+      inSlope: -0.46234873
+      outSlope: -0.43430677
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.133
+      value: -18
+      inSlope: -0.47810218
+      outSlope: -0.5516175
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: 17
+      inSlope: 4.9996166
+      outSlope: 6.369379
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.012
+      inSlope: -1.0650009
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: -15
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: 16
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.667
+      value: 11
+      inSlope: -4.03287
+      outSlope: -4.035283
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.133
+      value: -4
+      inSlope: -6.1593723
+      outSlope: -6.1566105
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.7
+      value: -12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.015
+      inSlope: 0.8812508
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.367
+      value: 20
+      inSlope: -7.0907745
+      outSlope: -7.0920086
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.367
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: -11
+      inSlope: -16.058205
+      outSlope: -16.069431
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.533
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.367
+      value: -19
+      inSlope: 1.320815
+      outSlope: 1.3210007
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.367
+      value: -17
+      inSlope: 1.251001
+      outSlope: 1.2509382
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.006
+      inSlope: 0.35390416
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.2
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.567
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.667
+      value: -6
+      inSlope: 1.5518191
+      outSlope: 1.5512583
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0.0041700494
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.867
+      value: 15
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.001
+      inSlope: -0.033075403
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.7
+      value: 4.5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.033
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.333
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.6
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.067
+      value: 5.4
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.011
+      inSlope: -0.65450203
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 4.8054442
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.767
+      value: 14
+      inSlope: 15.696669
+      outSlope: 22.857433
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.833
+      value: 30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.933
+      value: -3
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.067
+      value: 7
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.3
+      value: -5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.867
+      value: 7
+      inSlope: 6.3235545
+      outSlope: 6.325691
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9
+      value: 9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.933
+      value: -8
+      inSlope: 0
+      outSlope: 0.93050486
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.185
+      inSlope: 5.826631
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 4.4037704
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.767
+      value: 11
+      inSlope: 7.577414
+      outSlope: 18.911837
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.833
+      value: 26
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.933
+      value: -14
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.067
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.3
+      value: -7
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.867
+      value: 8
+      inSlope: 9.01724
+      outSlope: 9.021192
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.933
+      value: -8
+      inSlope: 0
+      outSlope: -0.065837055
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.242
+      inSlope: 5.065109
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 9.27185
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.867
+      value: 24
+      inSlope: 20.149307
+      outSlope: 15.607893
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.933
+      value: 29
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.033
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.167
+      value: 3
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.433
+      value: -8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8
+      value: 5
+      inSlope: 10.784312
+      outSlope: 10.786371
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.1
+      value: 9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.033
+      value: -9
+      inSlope: 0
+      outSlope: 0.11602169
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.314
+      inSlope: 7.470409
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 4.046029
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.767
+      value: 12
+      inSlope: 7.8995895
+      outSlope: 18.77394
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.833
+      value: 24
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.933
+      value: -8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.067
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.3
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.867
+      value: 8
+      inSlope: 8.856422
+      outSlope: 8.859674
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.933
+      value: -7
+      inSlope: 0
+      outSlope: -0.10314549
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.233
+      inSlope: 5.784934
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 4.2927036
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.867
+      value: 16
+      inSlope: 15.5202265
+      outSlope: 16.747671
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.933
+      value: 23
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.033
+      value: -11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.167
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.433
+      value: -5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8
+      value: 7
+      inSlope: 10.464593
+      outSlope: 10.467281
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.1
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.033
+      value: -9
+      inSlope: 0
+      outSlope: 0.26992995
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.371
+      inSlope: 7.385168
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 5.414232
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.767
+      value: 17
+      inSlope: 17.70713
+      outSlope: 21.295517
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.833
+      value: 27
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.933
+      value: -10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.067
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.3
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.867
+      value: 7
+      inSlope: 10.518199
+      outSlope: 10.525167
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.933
+      value: -9
+      inSlope: 0
+      outSlope: -0.13606507
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.199
+      inSlope: 5.126558
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -5.0320053
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.833
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.533
+      value: 1
+      inSlope: 14.43178
+      outSlope: 14.431783
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.233
+      value: 17
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.933
+      value: 0
+      inSlope: -16.738249
+      outSlope: -16.734867
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.6
+      value: -12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.033
+      value: 0
+      inSlope: 16.831842
+      outSlope: 16.827707
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.333
+      value: 11
+      inSlope: 0
+      outSlope: -0.9679439
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.382
+      inSlope: -9.933826
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -0.14400014
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.833
+      value: -11
+      inSlope: -4.690006
+      outSlope: -12.160603
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.533
+      value: -20
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.233
+      value: -11
+      inSlope: 13.770015
+      outSlope: 13.770012
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.933
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.6
+      value: -12
+      inSlope: -9.156576
+      outSlope: -9.159119
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.033
+      value: -16
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.333
+      value: -8
+      inSlope: 13.668474
+      outSlope: 13.662889
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.011
+      inSlope: 0.68252397
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 7.010798
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.167
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.267
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.733
+      value: 7
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.433
+      value: -11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.967
+      value: 13
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.2
+      value: -5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.633
+      value: 9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.267
+      value: -6
+      inSlope: 0
+      outSlope: -0.095837444
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.328
+      inSlope: 5.6224647
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -4.785248
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.8
+      value: 16
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.633
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.533
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.267
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.133
+      value: 10
+      inSlope: 0
+      outSlope: 0.07712023
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.353
+      inSlope: -6.5861263
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 6.5327005
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.8
+      value: -8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.633
+      value: 16
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.533
+      value: -15
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.267
+      value: 15
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.133
+      value: -10
+      inSlope: 0
+      outSlope: 0.07197921
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.37
+      inSlope: 10.76094
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -11.778385
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.267
+      value: -16
+      inSlope: 0.1509666
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.5
+      value: 12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.067
+      value: -7
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.833
+      value: 9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.333
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.6
+      value: 9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.167
+      value: -11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.5
+      value: 6
+      inSlope: 0
+      outSlope: -0.17624989
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.325
+      inSlope: -5.6850047
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 7.6658177
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.5
+      value: 10
+      inSlope: -0.53213364
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.867
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.333
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.067
+      value: -7
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.6
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.1
+      value: -8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.533
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.667
+      value: -5
+      inSlope: 0
+      outSlope: 1.6303319
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.382
+      inSlope: 12.454982
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -7.4524493
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.5
+      value: -11
+      inSlope: -0.33676013
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.867
+      value: 12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.333
+      value: -12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.067
+      value: 13
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.6
+      value: -13
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.1
+      value: 13
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.533
+      value: -21
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.667
+      value: 11
+      inSlope: 0
+      outSlope: -0.5497641
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.801
+      inSlope: -13.018964
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -5.9880066
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.833
+      value: -4
+      inSlope: 0.07200058
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.8
+      value: 5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.133
+      value: -6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.633
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.267
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.8
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.567
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.033
+      value: 12
+      inSlope: 0
+      outSlope: 0.12075695
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.337
+      inSlope: -5.921868
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -1.4417193
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.8
+      value: -1.94
+      inSlope: -0.4151335
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.967
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.433
+      value: -3
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.933
+      value: 4
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.467
+      value: -5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.033
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.2
+      value: -4
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.633
+      value: 6
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.04
+      inSlope: -2.3298383
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 4.237223
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.8
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.967
+      value: -15
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.433
+      value: 12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.933
+      value: -7
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.467
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.033
+      value: -13
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.2
+      value: 10
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.633
+      value: -4
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.343
+      inSlope: 8.08247
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 6.0860558
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.1
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.333
+      value: -8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 3.7
+      value: 8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.3
+      value: -8
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 6.567
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.033
+      value: -11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 9.633
+      value: 16
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.367
+      value: -10
+      inSlope: 0
+      outSlope: 0.15434198
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.658
+      inSlope: 9.276531
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: -5.784803
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.267
+      value: -9
+      inSlope: -0.17023717
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.5
+      value: 12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.1
+      value: -11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.533
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.033
+      value: -9
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.567
+      value: 12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.133
+      value: -5
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.3
+      value: 9
+      inSlope: 0
+      outSlope: -0.30000147
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0.345
+      inSlope: -7.563008
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 5.2612476
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 1.267
+      value: 8
+      inSlope: 0.8447547
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.5
+      value: 1
+      inSlope: -13.659381
+      outSlope: -13.65564
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 4.1
+      value: -12
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.533
+      value: 1
+      inSlope: 15.297294
+      outSlope: 15.292016
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 7.033
+      value: 11
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 8.567
+      value: 2
+      inSlope: -15.187757
+      outSlope: -15.201164
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 10.133
+      value: -15
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 11.3
+      value: -6
+      inSlope: 13.347061
+      outSlope: 9.855011
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.21
+      inSlope: 3.666004
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 2.433
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 5.367
+      value: -30
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: -0.002
+      inSlope: 0.12289065
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 34.998997
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 418.833
+      inSlope: 34.998997
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 0.333
+      value: 0
+      inSlope: 0
+      outSlope: 24.99933
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - time: 12.3
+      value: 299.167
+      inSlope: 24.99933
+      outSlope: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ParameterFadeInTimes:
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  ParameterFadeOutTimes:
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  - -1
+  MotionLength: 12.3

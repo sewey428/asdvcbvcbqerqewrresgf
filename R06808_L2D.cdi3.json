@@ -1,0 +1,404 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "体全体 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "体全体 Y"
+		},
+		{
+			"Id": "ParamAngleZ3",
+			"GroupId": "",
+			"Name": "尻　X"
+		},
+		{
+			"Id": "ParamAngleZ2",
+			"GroupId": "",
+			"Name": "尻　Y"
+		},
+		{
+			"Id": "ParamAngleZ4",
+			"GroupId": "",
+			"Name": "尾揺れ"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "首角度"
+		},
+		{
+			"Id": "ParamAngleZ5",
+			"GroupId": "",
+			"Name": "顔　X"
+		},
+		{
+			"Id": "ParamAngleZ6",
+			"GroupId": "",
+			"Name": "顔　Y"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左側目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左側目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右側目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右側目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左側眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右側眉　上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左側眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右側眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左側眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右側眉　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY4",
+			"GroupId": "",
+			"Name": "舌 Y"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "舌液体"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺　左01"
+		},
+		{
+			"Id": "ParamHairSide3",
+			"GroupId": "",
+			"Name": "髪揺　左02"
+		},
+		{
+			"Id": "ParamHairSide2",
+			"GroupId": "",
+			"Name": "髪揺　右01"
+		},
+		{
+			"Id": "ParamHairSide4",
+			"GroupId": "",
+			"Name": "髪揺　右02"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "竜A　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "竜A　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "竜A舌　揺れ"
+		},
+		{
+			"Id": "ParamBodyAngleX2",
+			"GroupId": "",
+			"Name": "竜B　X"
+		},
+		{
+			"Id": "ParamBodyAngleY2",
+			"GroupId": "",
+			"Name": "竜B　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ2",
+			"GroupId": "",
+			"Name": "竜B舌　揺れ"
+		},
+		{
+			"Id": "ParamBodyAngleX3",
+			"GroupId": "",
+			"Name": "竜C　X"
+		},
+		{
+			"Id": "ParamBodyAngleY3",
+			"GroupId": "",
+			"Name": "竜C　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ3",
+			"GroupId": "",
+			"Name": "竜C舌　揺れ"
+		},
+		{
+			"Id": "ParamBodyAngleX4",
+			"GroupId": "",
+			"Name": "竜D　X"
+		},
+		{
+			"Id": "ParamBodyAngleY4",
+			"GroupId": "",
+			"Name": "竜D　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ4",
+			"GroupId": "",
+			"Name": "竜D舌　揺れ"
+		},
+		{
+			"Id": "ParamBodyAngleX5",
+			"GroupId": "",
+			"Name": "触手　X"
+		},
+		{
+			"Id": "ParamBodyAngleY5",
+			"GroupId": "",
+			"Name": "触手　Y"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "触手　液体"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "触手絞め"
+		},
+		{
+			"Id": "ParamBodyAngleZ5",
+			"GroupId": "",
+			"Name": "シャワー"
+		},
+		{
+			"Id": "ParamBodyAngleZ6",
+			"GroupId": "",
+			"Name": "湯気"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part8",
+			"Name": "Touch"
+		},
+		{
+			"Id": "Split",
+			"Name": "Split"
+		},
+		{
+			"Id": "Showerhead",
+			"Name": "Showerhead"
+		},
+		{
+			"Id": "slobber",
+			"Name": "slobber"
+		},
+		{
+			"Id": "eyebrow",
+			"Name": "eyebrow"
+		},
+		{
+			"Id": "Forward",
+			"Name": "Forward"
+		},
+		{
+			"Id": "eye",
+			"Name": "eye"
+		},
+		{
+			"Id": "mouth",
+			"Name": "mouth"
+		},
+		{
+			"Id": "temple",
+			"Name": "temple"
+		},
+		{
+			"Id": "Part4",
+			"Name": "After the hair"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Left forearm"
+		},
+		{
+			"Id": "Forearm",
+			"Name": "Forearm"
+		},
+		{
+			"Id": "tentacle",
+			"Name": "tentacle"
+		},
+		{
+			"Id": "foreleg",
+			"Name": "foreleg"
+		},
+		{
+			"Id": "dragon",
+			"Name": "dragon"
+		},
+		{
+			"Id": "Part",
+			"Name": "2"
+		},
+		{
+			"Id": "Part2",
+			"Name": "2"
+		},
+		{
+			"Id": "Part3",
+			"Name": "1"
+		},
+		{
+			"Id": "Part6",
+			"Name": "1"
+		},
+		{
+			"Id": "Part7",
+			"Name": "8"
+		},
+		{
+			"Id": "left",
+			"Name": "left"
+		},
+		{
+			"Id": "right",
+			"Name": "right"
+		},
+		{
+			"Id": "eyeliner",
+			"Name": "eyeliner"
+		},
+		{
+			"Id": "eyeliner2",
+			"Name": "eyeliner"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamAngleZ3",
+			"ParamAngleZ2"
+		],
+		[
+			"ParamAngleZ5",
+			"ParamAngleZ6"
+		],
+		[
+			"ParamEyeLOpen",
+			"ParamEyeLSmile"
+		],
+		[
+			"ParamEyeROpen",
+			"ParamEyeRSmile"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthOpenY",
+			"ParamMouthForm"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		],
+		[
+			"ParamBodyAngleX2",
+			"ParamBodyAngleY2"
+		],
+		[
+			"ParamBodyAngleX3",
+			"ParamBodyAngleY3"
+		],
+		[
+			"ParamBodyAngleX4",
+			"ParamBodyAngleY4"
+		],
+		[
+			"ParamBodyAngleX5",
+			"ParamBodyAngleY5"
+		]
+	]
+}
